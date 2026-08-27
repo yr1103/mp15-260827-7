@@ -5,7 +5,7 @@ public class Program
     public static void Main()  
     {  
 
-        Console.WriteLine("=== N조 팀원 소개 ===");  
+        Console.WriteLine("=== 7조 팀원 소개 ===");  
         // 여기에 팀원 소개 호출을 한 줄씩 추가합니다
         IntroSwchoiDev();
         IntroYr1103();
@@ -23,3 +23,4 @@ public class Program
     }
 
 }
+
