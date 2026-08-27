@@ -8,7 +8,7 @@ public class Program
         Console.WriteLine("=== N조 팀원 소개 ===");  
         // 여기에 팀원 소개 호출을 한 줄씩 추가합니다
         IntroSwchoiDev();
-        IntroSample();
+        IntroYr1103();
         Console.WriteLine("=== 소개 끝 ===");  
     }
 
@@ -17,7 +17,7 @@ public class Program
     {
         Console.WriteLine("최성원 / 진짜 고양이들을 키웁니다");  
     }
-    public static void IntroSample()  
+    public static void IntroYr1103()  
     {  
         Console.WriteLine("조영래 / 게임 개발에 관심이 있습니다");  
     }
